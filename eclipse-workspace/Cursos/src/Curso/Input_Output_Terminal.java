@@ -1,5 +1,5 @@
 package Curso;
-import java.util.Scanner;
+import java.util.Scanner; // programa utiliza a classe Scanner
 
 public class Input_Output_Terminal {
 
@@ -12,6 +12,6 @@ public class Input_Output_Terminal {
 		}
 		
 		System.out.println("Resposta: " + year + " anos");
-
+		System.out.printf("Outro formato: %d \n", year);
 	}
 }
