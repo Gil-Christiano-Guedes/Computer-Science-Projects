@@ -5,6 +5,8 @@ public class Aprendizagem {
 	public static void main(String[] args) {
 		// TODO Auto-generated method 
 		
+		System.out.println("Comparando os dois tipos de for: ");
+		
 		String[] greeting = new String[3];
 		greeting[0] = "Hello ";
 		greeting[1] = "World! ";
