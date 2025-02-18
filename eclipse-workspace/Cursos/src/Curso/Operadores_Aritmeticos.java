@@ -3,11 +3,6 @@ package Curso;
 public class Operadores_Aritmeticos {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		/* As operações de multiplicação são avaliadas primeiro na ordem da esquerda para a direita (isto é, elas são associadas da esquer-
-da para a direita), porque têm uma precedência mais alta que a adição. (O Java não tem nenhum operador aritmético para exponen-
-ciação, assim x2 é representado como x * x. */
 		
 		// Operadores +, _, /, *, %
 		
